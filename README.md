@@ -1,8 +1,10 @@
 # tPerma
- 
+
+tPerma allows players to spend their money on permanent packages consisting of weapons, trails, player models, player upgrades and more! It gives players an incentive to earn and save in-game currency. The configuration is simple and extremely flexible.
+
 ### PREREQUISITES
  - MySQL Database
- - MySQLOO installed into your Garry's Mod server
+ - Garry's Mod server with MySQLOO DLL
  - Xenin Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=1900562881)
  - Perma Props (https://steamcommunity.com/sharedfiles/filedetails/?id=220336312)
  
