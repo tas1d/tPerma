@@ -4,10 +4,10 @@ util.AddNetworkString("tperma_equip")
 util.AddNetworkString("tperma_success")
 
 tperma.mysqlinfo = {
-	["host"] = "5.226.143.50",
-	["username"] = "pixytene_darkrp",
-	["password"] = "KGVLZu$HnrbJVkE&E!8_2vyL",
-	["database"] = "pixytene_darkrp",
+	["host"] = "HOST",
+	["username"] = "USER",
+	["password"] = "PASS",
+	["database"] = "DB",
 	["port"] = 3306,
 }
 
